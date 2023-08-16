@@ -1,2 +1,2 @@
 let a=20
-let b=70
+let b=100
